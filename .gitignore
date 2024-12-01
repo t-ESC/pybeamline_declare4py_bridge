@@ -1,0 +1,8 @@
+*.pyc
+.idea
+dist
+pybeamline.egg-info
+build
+__pycache__/
+**/env/*
+**/.vscode/
